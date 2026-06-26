@@ -17,4 +17,8 @@ A simple and responsive To-do list application which helps users to manage their
  - Click the add button to add task to the list
  - Click the delete button to remove a task
 
+## Future improvements
+ - Data persists on refreshing the page
+ - Adding dark and light mode
+
 ## Author: Dakshim Arora
